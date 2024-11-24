@@ -29,7 +29,7 @@ github:
   username: jkjoy # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: imsunpeiw # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -63,8 +63,8 @@ analytics:
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
-    id: # fill in your Umami ID
-    domain: # fill in your Umami domain
+    id: 0b6ba500-5026-441e-b707-8a910c468f0a # fill in your Umami ID
+    domain: umami.ittst.top # fill in your Umami domain
   matomo:
     id: # fill in your Matomo ID
     domain: # fill in your Matomo domain
