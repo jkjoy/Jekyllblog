@@ -7,6 +7,9 @@ tags: ["苹果", "macos", "opencore"]
 ---
 
 笔记本黑苹果的难点就在于注入edid。
+
 我的思路是在clover下安装好macos之后再用hackintool注入EDID，然后再转为opencore引导。
+
 其他都很简单我就不多说了。
+
 附上EFI文件，三码自己改
