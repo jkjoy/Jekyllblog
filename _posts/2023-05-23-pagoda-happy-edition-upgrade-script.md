@@ -8,6 +8,6 @@ tags: ["宝塔"]
 
 直接升级开心版
 
-```
+```bash
 curl http://io.bt.sy/install/update6.sh|bash
 ```

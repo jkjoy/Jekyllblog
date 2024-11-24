@@ -16,6 +16,7 @@ https://github.com/hu3rror/memos-on-fly
 用以部署memos
 2.注册B2C 
 https://www.backblaze.com/cloud-storage
+
  用以同步备份memos数据库
  新建BUCKET,并获取`<keyId>`和`<applicationKey>`
 
@@ -23,7 +24,7 @@ https://www.backblaze.com/cloud-storage
 ## 安装flyctl
 Install flyctl 
 以WINDOWS为例
-```
+```bash
 pwsh -Command "iwr https://fly.io/install.ps1 -useb | iex"
 ```
 其他系统请参照官方
@@ -31,7 +32,7 @@ pwsh -Command "iwr https://fly.io/install.ps1 -useb | iex"
 ## 新建APP
 
 初始化
-```
+```bash
 flyctl launch
 ```
 按照提示选择会生成一个FLY.TOML文件
@@ -40,7 +41,7 @@ flyctl launch
 
 添加以下内容
 
-```
+```yaml
 [build]
   image = "ghcr.io/hu3rror/memos-litestream:latest"
 #如果不需要备份数据库则可以选择官方的docker镜像ghcr.io/usememos/memos:latest
@@ -65,7 +66,7 @@ flyctl launch
 
 ## 添加1g存储空间
 
-```
+```bash
 flyctl volumes create memos_data --region hkg --size 1
 ```
 
@@ -73,13 +74,13 @@ flyctl volumes create memos_data --region hkg --size 1
 将B2存储的密钥添加到fly的密钥存储中,
 使用官方镜像可以忽略此步骤
 
-```
+```bash
 flyctl secrets set LITESTREAM_ACCESS_KEY_ID="<keyId>" LITESTREAM_SECRET_ACCESS_KEY="<applicationKey>"
 ```
 
 ## 部署
 执行
-```
+```bash
 flyctl deploy
 ```
 看到成功的提示可打开域名查看
@@ -93,6 +94,6 @@ https://imad.top
 ## 下载数据库
 `fly.io`部署`artalk`或者`memos`后,使用SFTP下载SQLite 数据库
 
-```
+```bash
 flyctl sftp get ./data/artalk.db #数据库路径
 ```

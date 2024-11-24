@@ -8,7 +8,7 @@ date: 2023-06-17 14:42:05 +08:00
 适用于最新版本的memos 0.13
 在Memos设置中加入以下
 ## 自定义样式
-```
+```css
 #twikoo{padding: 1rem;background-color: rgb(63,63,70);margin: 1rem 0;border-radius: .5rem;color: #fff !important;}
 .twicon{position: absolute;right: 1rem;}
 .btns-container.space-x-2{margin-right:1.5rem;}
@@ -16,7 +16,7 @@ date: 2023-06-17 14:42:05 +08:00
 .action-button-container a{display:none !important;}
 ```
 ## 自定义脚本
-```
+```js
 //添加 twikoo 评论 v2023.06.10 适用于最新版本的memos
 var twikooENV = 'https://twikoo.loliko.cn/'
 function addTwikooJS() { 

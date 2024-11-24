@@ -3,7 +3,7 @@ layout: post
 title: "关于nec vk22t添加nvme驱动"
 date: 2021-10-11 10:21:00 +08:00
 categories: ["分享"]
-tags: ["原因", "驱动", "主板", "nvme", "笔记本", "bios", "尝试", "器备份", "编程器", "焊盘"]
+tags: ["驱动", "主板"]
 ---
 
 昨天尝试把bios芯片焊下来然后用uefitool把nvme驱动添加进bios

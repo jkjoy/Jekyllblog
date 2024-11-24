@@ -9,7 +9,7 @@ tags: ["宝塔", "数据库", "mysql"]
 创建计划任务,每分钟执行一次
 脚本如下
 
-```
+```bash
 pgrep -x mysqld &> /dev/null
 if [ $? -ne 0 ];then
 /etc/init.d/mysqld start 

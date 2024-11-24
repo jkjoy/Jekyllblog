@@ -3,7 +3,7 @@ layout: post
 title: "NEC VK22 黑苹果opencore引导"
 date: 2021-10-10 15:42:00 +08:00
 categories: ["分享"]
-tags: ["文件", "苹果", "macos", "opencore", "efi", "笔记本", "clover", "edid", "注入", "hackintool"]
+tags: ["苹果", "macos", "opencore"]
 ---
 
 笔记本黑苹果的难点就在于注入edid。

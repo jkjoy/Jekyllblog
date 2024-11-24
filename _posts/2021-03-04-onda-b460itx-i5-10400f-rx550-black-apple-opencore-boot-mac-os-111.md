@@ -3,7 +3,7 @@ layout: post
 title: "onda b460itx+rx560黑苹果opencore引导bigsur"
 date: 2021-03-04 16:02:00 +08:00
 categories: ["分享"]
-tags: ["显卡", "i5", "主板", "b460itx", "rx560d", "yeston", "gssd", "sn550", "nvmewifi", "bcm94331cd"]
+tags: ["显卡", "i5", "主板", "黑苹果", "opencore"]
 ---
 
  1. CPU i5 10400
