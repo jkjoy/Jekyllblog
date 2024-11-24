@@ -23,9 +23,9 @@ Ver: 1.0.3
 可视化界面 Web UI
 - 安装步骤
 
-
+```bash
     wget -N --no-check-certificate https://www.xuanlove.download/sh/cloudt.sh && chmod +x cloudt.sh && bash cloudt.sh
-
+```
 
 下载运行完毕脚本，就会直接开始安装 Cloud Torrent ，安装过程中如果出现让你选择Y和N的，都选Y。
 安装完成之后，就会提醒你，输入要开放的端口（推荐：默认 8000）
@@ -33,7 +33,7 @@ Ver: 1.0.3
 - 脚本使用说明
 
    
-
+```
      bash cloudt.sh
         #可以直接输入这个命令，会自动判断是否需要 安装/启动/停止 Cloud Torrent
          
@@ -51,7 +51,7 @@ Ver: 1.0.3
          
         bash cloudt.sh uninstall
         #卸载 Cloud Torrent
-
+```
 
 - Cloud Torrent使用说明
 Cloud Torrent可以直接在输入中输入 磁力链接 或者 在线的BT种子（不支持本地上传），点击下面的 蓝色的按钮，就会开始解析资源。
@@ -76,11 +76,11 @@ Cloud Torrent支持搜索磁力链接，在输入栏中直接输入你要搜索�
 BT和磁力链接的速度是和， 磁力链接/BT 的用户上传共享量 和 中心服务器的宽带质量，以及你下载 磁力链接/BT 的VPS的宽带有关系。
 这种软件在某些程度上比不上 国内的迅雷，毕竟迅雷 用户了很大共享了很多的上传速度，而且还有缓存的中心服务器，所以才会那么快。
 如果你是国外的VPS，特别是美国的，一定要注意下载 BT/磁力链接 容易遇到蜜罐，然后被投诉封VPS。建议使用欧洲的罗马尼亚，那里的VPS无视版权，当然拉回本地，速度肯定也不会多快
-# 无法访问你的 http://IP:端口
+# 无法访问你的 `http://IP:端口`
 可能是防火墙规则的问题，使用下面这个命令来开放端口
-
+```
     iptables -I INPUT -p tcp --dport 端口 -j ACCEPT
-
+```
 
   [1]: https://xy07-1251893119.costj.myqcloud.com/2017/05/27/823290012.png
 

@@ -7,6 +7,9 @@ tags: ["wget", "shadowsocks"]
 ---
 
 事实上Ubuntu centos都可以使用此命令行
-> wget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks.sh
-> chmod +x shadowsocks.sh 
-> ./shadowsocks.sh 2>&1 | tee shadowsocks.log
+
+```bash
+wget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks.sh
+chmod +x shadowsocks.sh 
+./shadowsocks.sh 2>&1 | tee shadowsocks.log
+```
