@@ -19,7 +19,6 @@ title: 碎语
     <div id="banner-subinfo" class="g-txt-ellipsis g-user-select"></div>
 </header>
 <link rel="stylesheet" href="https://jkjoy.github.io/memos/css/new.css"/>
-<link rel="stylesheet" href="https://cdn.sgcd.net/code-highlight/css/prism.css"  />
 <div id="posts"></div>
 <script>
     const memos = {
@@ -30,7 +29,6 @@ title: 碎语
         twikoo: 'https://t.memos.ee',
         };
 </script>
-<script src="https://cdn.sgcd.net/code-highlight/js/prism.js"></script>
 <script src="https://registry.npmmirror.com/twikoo/1.6.31/files/dist/twikoo.all.min.js"></script>                    
 <script src="https://jkjoy.github.io/memos/js/marked.min.js"></script> 
 <script src="https://jkjoy.github.io/memos/js/view-image.min.js"></script>          
