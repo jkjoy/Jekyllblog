@@ -11,4 +11,4 @@ categories: ["默认"]
 看看人家泰国的创意，再看看中国的创意，你会发现连印度阿三都比我们的广告有内涵。
 对于这样的局面，谁的责任？</p>
 <p>有视频有真相。泰国潘婷广告。
-<a href="http://v.youku.com/v_show/id_XMTIzMTgxNjg4.html">http://v.youku.com/v_show/id_XMTIzMTgxNjg4.html</a></p>
+<a href="https://v.youku.com/v_show/id_XMTIzMTgxNjg4.html">https://v.youku.com/v_show/id_XMTIzMTgxNjg4.html</a></p>
