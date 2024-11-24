@@ -4,7 +4,6 @@ icon: fas fa-comment
 order: 4
 title: 碎语
 ---
-
 <header id="banner">
     <div id="banner-background" class="existbg" style="--banner_background_image_position_dark: 90%;"></div>
         <div id="banner-info" class="g-clear-both">
@@ -17,6 +16,7 @@ title: 碎语
         </div>
     <div id="banner-subinfo" class="g-txt-ellipsis g-user-select"></div>
 </header>
+<main>
 <link rel="stylesheet" href="https://jkjoy.github.io/memos/css/new.css"/>
 <div id="posts"></div>
 <script>
@@ -32,3 +32,4 @@ title: 碎语
 <script src="https://jkjoy.github.io/memos/js/marked.min.js"></script> 
 <script src="https://jkjoy.github.io/memos/js/view-image.min.js"></script>          
 <script src="https://jkjoy.github.io/memos/js/memos2.js"></script>  
+</main>

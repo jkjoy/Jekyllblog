@@ -3,7 +3,7 @@ layout: post
 title: "onda h410 itx+i5 10400+rx560黑苹果oc0.6.3引导"
 date: 2020-12-03 20:36:00 +08:00
 categories: ["分享"]
-tags: ["版本", "0.6.3", "opencore", "版", "驱动", "显卡", "网卡", "efi"]
+tags: ["版本"]
 ---
 
 2021年3月16日更新
