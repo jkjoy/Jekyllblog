@@ -5,7 +5,6 @@ order: 4
 title: 碎语
 ---
 
-闲言碎语，随便写写。
 <header id="banner">
     <div id="banner-background" class="existbg" style="--banner_background_image_position_dark: 90%;"></div>
         <div id="banner-info" class="g-clear-both">
@@ -13,7 +12,7 @@ title: 碎语
                 <strong class="font-options g-right g-user-select zh" >浪子的朋友圈</strong>
             </div>
             <div class="avatar g-right">
-                        <img class="g-alias-imgblock" src="https://imsun.org/favicon.ico" loading="lazy" draggable="false" alt=""/>
+                <img class="g-alias-imgblock" src="https://img.imsun.org/avatar.jpg" loading="lazy" draggable="false" alt=""/>
             </div>
         </div>
     <div id="banner-subinfo" class="g-txt-ellipsis g-user-select"></div>
@@ -32,4 +31,4 @@ title: 碎语
 <script src="https://registry.npmmirror.com/twikoo/1.6.31/files/dist/twikoo.all.min.js"></script>                    
 <script src="https://jkjoy.github.io/memos/js/marked.min.js"></script> 
 <script src="https://jkjoy.github.io/memos/js/view-image.min.js"></script>          
-<script src="https://jkjoy.github.io/memos/js/memos.js?v20241106"></script>  
+<script src="https://jkjoy.github.io/memos/js/memos2.js"></script>  
