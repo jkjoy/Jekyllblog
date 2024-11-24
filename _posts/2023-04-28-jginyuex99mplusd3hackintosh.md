@@ -22,4 +22,4 @@ tags: ["黑苹果", "精粤", "X99"]
 
 ## 引导下载
 
-[login]https://github.com/i886/JGINYUE-X99M-PLUS-D3-Hackintosh[/login]
+ https://github.com/i886/JGINYUE-X99M-PLUS-D3-Hackintosh 

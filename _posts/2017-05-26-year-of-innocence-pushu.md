@@ -7,10 +7,7 @@ tags: ["朴树", "清白之年"]
 ---
 
 ![liehu.jpg][1]
-[hplayer]
-[Music server="netease" id="475072295" type="song"/]
-[/hplayer]
-
+ 
 
 作曲 : 朴树
 作词 : 朴树

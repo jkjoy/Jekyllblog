@@ -3,7 +3,7 @@ layout: post
 title: "Cloud Torrent for centos一键安装"
 date: 2017-05-27 21:54:00 +08:00
 categories: ["分享"]
-tags: ["torrent", "磁力", "下载", "cloud torrent", "centos"]
+tags: ["cloud torrent", "centos"]
 ---
 
 支持 离线下载 BT和磁力链接和边下边播 的老司机坐骑 —— Cloud Torrent

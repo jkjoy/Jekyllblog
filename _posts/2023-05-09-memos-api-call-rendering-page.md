@@ -10,7 +10,7 @@ tags: ["memos"]
 
 ## 集成
 集成到自己的网站，在合适的位置需要放置一个 CSS 选择器作为展示 Memos 的容器。
-```
+```html
 <div id="memos" class="memos"></div>
 <!-- Your Memos API -->
 <script type="text/javascript">
@@ -26,22 +26,22 @@ tags: ["memos"]
     </script>
 ```
 引入CSS和JS
-```
-<link rel="stylesheet" href="https://blog.chaihu.top/memos/assets/css/memos.css" rel="stylesheet" type="text/css">
-<link rel="stylesheet" href="https://blog.chaihu.top/memos/assets/css/custom.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="https://blog.chaihu.top/memos/assets/js/main.js"></script>
-<script type="text/javascript" src="https://blog.chaihu.top/memos/assets/js/custom.js"></script>
-<script type="text/javascript" src="https://blog.chaihu.top/memos/assets/js/marked.min.js?v=4.2.2"></script>
-<script type="text/javascript" src="https://blog.chaihu.top/memos/assets/js/moment.min.js?v=2.29.4"></script>
-<script type="text/javascript" src="https://blog.chaihu.top/memos/assets/js/moment.twitter.js"></script>
-<script type="text/javascript" src="https://blog.chaihu.top/memos/assets/js/view-image.min.js"></script>
-<script type="text/javascript" src="https://blog.chaihu.top/memos/assets/js/lazyload.min.js?v=17.8.3"></script>
-<script type="text/javascript" src="https://blog.chaihu.top/memos/assets/js/highlight.min.js"></script>
+```html
+<link rel="stylesheet" href="https://memos.top/assets/css/memos.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://memos.top/assets/css/custom.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="https://memos.top/assets/js/main.js"></script>
+<script type="text/javascript" src="https://memos.top/assets/js/custom.js"></script>
+<script type="text/javascript" src="https://memos.top/assets/js/marked.min.js?v=4.2.2"></script>
+<script type="text/javascript" src="https://memos.top/assets/js/moment.min.js?v=2.29.4"></script>
+<script type="text/javascript" src="https://memos.top/assets/js/moment.twitter.js"></script>
+<script type="text/javascript" src="https://memos.top/assets/js/view-image.min.js"></script>
+<script type="text/javascript" src="https://memos.top/assets/js/lazyload.min.js?v=17.8.3"></script>
+<script type="text/javascript" src="https://memos.top/assets/js/highlight.min.js"></script>
 ```
 
 ## 独立网页
 ### 演示地址
-https://blog.chaihu.top/memos/
+https://memos.top/
 ### fork参考项目
 修改`index.html`中
 ```

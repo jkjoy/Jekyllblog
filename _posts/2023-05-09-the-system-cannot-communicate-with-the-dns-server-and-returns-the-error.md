@@ -6,11 +6,12 @@ categories: ["吐槽"]
 ---
 
 ## 出现问题
+
 ping baidu.com出现报错,原因是DNS错误
 ![output-from-ping-phoenixnap-com-temporary-failure-in-name-resolution.png][1]
 ## 解决办法
 修改DNS为8.8.8.8即可
-```
+```bash
 sudo nano /etc/resolv.conf
 ```
 
