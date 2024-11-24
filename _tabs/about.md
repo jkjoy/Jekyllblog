@@ -1,6 +1,9 @@
 ---
 # the default layout is 'page'
-icon: fas fa-comment
+icon: fas fa-info-circle
 order: 5
 ---
-闲言碎语，随便写写。
+
+## 关于
+
+没有关于的内容。
