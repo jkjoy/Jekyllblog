@@ -7,18 +7,17 @@ title: 碎语
 
 闲言碎语，随便写写。
 <header id="banner">
-                <div id="banner-background" class="existbg" style="--banner_background_image_position_dark: 90%;"></div>
-                <div id="banner-info" class="g-clear-both">
-                    <div class="name g-left">
-                        <strong class="font-options g-right g-user-select zh" >浪子的朋友圈</strong>
-                    </div>
-                    <div class="avatar g-right">
-                        <img class="g-alias-imgblock" src="favicon.ico" loading="lazy" draggable="false" alt=""/>
-                    </div>
-                </div>
-                <div id="banner-subinfo" class="g-txt-ellipsis g-user-select"></div>
-            </header>
-            <main>
+    <div id="banner-background" class="existbg" style="--banner_background_image_position_dark: 90%;"></div>
+        <div id="banner-info" class="g-clear-both">
+            <div class="name g-left">
+                <strong class="font-options g-right g-user-select zh" >浪子的朋友圈</strong>
+            </div>
+            <div class="avatar g-right">
+                        <img class="g-alias-imgblock" src="https://imsun.org/favicon.ico" loading="lazy" draggable="false" alt=""/>
+            </div>
+        </div>
+    <div id="banner-subinfo" class="g-txt-ellipsis g-user-select"></div>
+</header>
 <link rel="stylesheet" href="https://jkjoy.github.io/memos/css/new.css"/>
 <link rel="stylesheet" href="https://cdn.sgcd.net/code-highlight/css/prism.css"  />
 <div id="posts"></div>
@@ -36,4 +35,3 @@ title: 碎语
 <script src="https://jkjoy.github.io/memos/js/marked.min.js"></script> 
 <script src="https://jkjoy.github.io/memos/js/view-image.min.js"></script>          
 <script src="https://jkjoy.github.io/memos/js/memos.js?v20241106"></script>  
-</main>
