@@ -4,27 +4,15 @@ icon: fas fa-comment
 order: 4
 title: 碎语
 ---
-<header id="banner">
-    <div id="banner-background" class="existbg" style="--banner_background_image_position_dark: 90%;"></div>
-        <div id="banner-info" class="g-clear-both">
-            <div class="name g-left">
-                <strong class="font-options g-right g-user-select zh" >浪子的朋友圈</strong>
-            </div>
-            <div class="avatar g-right">
-                <img class="g-alias-imgblock" src="https://img.imsun.org/avatar.jpg" loading="lazy" draggable="false" alt=""/>
-            </div>
-        </div>
-    <div id="banner-subinfo" class="g-txt-ellipsis g-user-select"></div>
-</header>
-<main>
+
 <link rel="stylesheet" href="https://jkjoy.github.io/memos/css/new.css"/>
-<div id="posts"></div>
+<div id="post-list" class="flex-grow-1 px-xl-1"></div>
 <script>
     const memos = {
         host: 'https://memos.ee',
         limit: '1000',
         creatorId: '1',
-        domId: '#posts',
+        domId: '#post-list',
         twikoo: 'https://t.memos.ee',
         };
 </script>
@@ -32,4 +20,3 @@ title: 碎语
 <script src="https://jkjoy.github.io/memos/js/marked.min.js"></script> 
 <script src="https://jkjoy.github.io/memos/js/view-image.min.js"></script>          
 <script src="https://jkjoy.github.io/memos/js/memos2.js"></script>  
-</main>
