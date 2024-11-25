@@ -5,18 +5,16 @@ order: 4
 title: 碎语
 ---
 
-<link rel="stylesheet" href="https://jkjoy.github.io/memos/css/new.css"/>
+
 <div id="post-list" class="flex-grow-1 px-xl-1"></div>
 <script>
     const memos = {
         host: 'https://memos.ee',
         limit: '1000',
         creatorId: '1',
-        domId: '#post-list',
-        twikoo: 'https://t.memos.ee',
+        domId: '#post-list'
         };
 </script>
-<script src="https://registry.npmmirror.com/twikoo/1.6.31/files/dist/twikoo.all.min.js"></script>                    
 <script src="https://jkjoy.github.io/memos/js/marked.min.js"></script> 
 <script src="https://jkjoy.github.io/memos/js/view-image.min.js"></script>          
 <script src="https://jkjoy.github.io/memos/js/memos2.js"></script>  
