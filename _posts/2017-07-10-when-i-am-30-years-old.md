@@ -11,6 +11,6 @@ categories: ["默认"]
 <p>而立之年，日子过的跟亿万在广打工的人们一样。</p>
 <p>三点一线。</p>
 <p>甚至比他们其实的大部分过的还要无趣很多。</p>
-<img class="alignnone size-medium wp-image-702" src="/usr/uploads/2017/07/2e776c3c09b806022d73ff5c58f08eb0-300x188.jpg" alt="" width="300" height="188" />
+<img class="alignnone size-medium wp-image-702" src="https://www.imsun.org/usr/uploads/2017/07/2e776c3c09b806022d73ff5c58f08eb0-300x188.jpg" alt="" width="300" height="188" />
 <p>只希望早些成家，别让爸妈操心吧。</p>
-<p><a href="http://music.163.com/#/song?id=487590187">http://music.163.com/#/song?id=487590187</a></p>
+ 
