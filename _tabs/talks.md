@@ -15,6 +15,6 @@ title: 碎语
         domId: '#post-list'
         };
 </script>
-<script src="https://jkjoy.github.io/memos/js/marked.min.js"></script> 
-<script src="https://jkjoy.github.io/memos/js/view-image.min.js"></script>          
-<script src="https://jkjoy.github.io/memos/js/memos2.js"></script>  
+<script src="/memos/js/marked.min.js"></script> 
+<script src="/memos/js/view-image.min.js"></script>          
+<script src="/memos/js/memos2.js"></script>  
