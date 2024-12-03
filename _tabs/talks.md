@@ -15,6 +15,6 @@ title: 碎语
         domId: '#post-list'
         };
 </script>
-<script src="https://www.imsun.pw/memos/js/marked.min.js"></script> 
-<script src="https://www.imsun.pw/memos/js/view-image.min.js"></script>          
-<script src="https://www.imsun.pw/memos/js/memos2.js"></script>  
+<script src="https://blog.imsun.pw/memos/js/marked.min.js"></script> 
+<script src="https://blog.imsun.pw/memos/js/view-image.min.js"></script>          
+<script src="https://blog.imsun.pw/memos/js/memos2.js"></script>  
